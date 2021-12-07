@@ -5,9 +5,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomas-lardreau/](https://www.linkedin.com/in/thomas-lardreau/)
 
-<h3 align="left"> ![image](https://user-images.githubusercontent.com/6053046/145040254-9f81910d-d678-4c57-901f-08a4c23494df.png) Github under construction ![image](https://user-images.githubusercontent.com/6053046/145040281-ae7ff635-0295-42b1-b773-1056678110af.png)
-
-</h3>
+<h3 align="left"> 🚧 Github under construction 🚧 </h3>
 <p align="left">
 </p>
 
